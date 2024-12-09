@@ -1,3 +1,6 @@
-import gpt_api
-OPENAI_API_KEY = gpt_api.OPENAI_API_KEY
 PEEWEE_CONNECTION = "aiosqlite:///db.sqlite"
+
+from .gpt_api import OPENAI_API_KEY
+OPENAI_API_KEY = OPENAI_API_KEY
+
+
