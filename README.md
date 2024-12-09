@@ -43,9 +43,3 @@ Required python 3.11
 **4) run project**
 
 * python -m Main -run
-
-3)Init database
-* python -m server -init_db
-
-4)run project
-* python -m server -run
