@@ -1,3 +1,5 @@
+**The application will not work on closed and protected profiles**
+
 Required python 3.11
 
 **HOW TO USE IN LINUX**
