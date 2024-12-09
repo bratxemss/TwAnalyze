@@ -1,0 +1,4 @@
+*.sqlite
+*.venv
+notes
+gpt_api.py

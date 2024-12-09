@@ -1,6 +1,5 @@
 import openai
 from Main import gpt as gpt_api
-import asyncio
 
 
 class GPT(openai.OpenAI):
