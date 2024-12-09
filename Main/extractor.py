@@ -142,7 +142,7 @@ class XExtractor:
             await Customer.create_with_user_login(self.username, description)
         if self.get_data_from_DB:
             data = await self.get_tweets_from_DB()
-            if len(data) >= 1:
+            if len(data) >= self.amount_of_posts:
                 return await self.GPT_response(description, data)
         posts = await self.fetch_clean_posts()
         if len(posts)>=1:
