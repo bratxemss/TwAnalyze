@@ -4,48 +4,48 @@ Required python 3.11
 
 **1)Create venv and activate**
 
-*python -m venv venv
+* python -m venv venv
 
-*source venv/bin/activate
+* source venv/bin/activate
 
 **2)Install poetry and install requirements.**
 
-*pip install poetry
+* pip install poetry
 
-*poetry install
+* poetry install
 
 **3)Init database**
 
-*make init_db
+* make init_db
 
 **4)run project**
 
-*make run
+* make run
 
 **HOW TO USE IN WINDOWS**
 
 **1)Create venv and activate
 **
-*python -m venv venv
+* python -m venv venv
 
-*.\venv\Scripts\activate
+* .\venv\Scripts\activate
 
 **2)Install poetry and install requirements.**
 
-*pip install poetry
+* pip install poetry
 
-*poetry install
+* poetry install
 
 **3)Init database**
 
-*python -m Main -init_db
+* python -m Main -init_db
 
 **4) run project**
 
-*python -m Main -run
+* python -m Main -run
 
 3)Init database
-*python -m server -init_db
+* python -m server -init_db
 
 4)run project
-*python -m server -run
+* python -m server -run
