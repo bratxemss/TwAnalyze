@@ -1,6 +1,6 @@
-**
-in Main/config create gpt_api.py
-with variable OPENAI_API_KEY = 'you_api_key'**
+
+**in Main/config create gpt_api.py**
+**with variable OPENAI_API_KEY = 'you_api_key'**
 
 **The application will not work on closed and protected profiles -> https://github.com/JustAnotherArchivist/snscrape/issues/996**
 
