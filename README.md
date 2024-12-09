@@ -1,6 +1,6 @@
 **The application will not work on closed and protected profiles -> https://github.com/JustAnotherArchivist/snscrape/issues/996**
 
-Required python 3.11
+Required python 3.12
 
 **HOW TO USE IN LINUX**
 
